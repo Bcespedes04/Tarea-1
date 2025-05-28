@@ -42,6 +42,7 @@ namespace Tarea_1
 
             Console.WriteLine($"\nFib({n}) = {fib[n]}");
             Console.WriteLine($"Fib({n - 1}) = {fib[n - 1]}");
+
         }
     }
 }
